@@ -1,5 +1,5 @@
 CC=g++ -fopenmp
-#CFLAGS= -std=c++14 -g -O0 -DDEBUG -Wall -Wextra -pedantic -Wno-unused-variable -Wno-unused-result
+#CFLAGS= -std=c++17 -g -O0 -DDEBUG -Wall -Wextra -pedantic -Wno-unused-variable -Wno-unused-result
 CFLAGS= -std=c++17 -O3 -Wall -Wextra -pedantic -Wno-unused-variable -Wno-unused-result
 LDFLAGS=
 EXEC=non-lin-search

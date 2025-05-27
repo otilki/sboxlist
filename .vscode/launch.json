@@ -10,8 +10,9 @@
         "request": "launch",
         "program": "${workspaceFolder}/non-lin-search",
         "args": ["-q","-v",
-        "-i", "65CA1E79B03D8F42",
-        "-o", "0123456789ABCDFE"],
+         "-i", "0123456789ABCDFE",
+        "-o", "1A4C6F392DB7508E"],
+       
         "stopAtEntry": false,
         "cwd": "${fileDirname}",
         "environment": [],

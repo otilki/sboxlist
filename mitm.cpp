@@ -147,7 +147,7 @@ void v_list_process(int lambda, int op_cost, RandomAccessVector<function_t> *tmp
       {
         #pragma omp critical
         {
-          system("notify-send 'Collision'");
+          //system("notify-send 'Collision'");
           get_implementation((*it_tmp), fun_found, vect_found, current, opposite);
         }
       }

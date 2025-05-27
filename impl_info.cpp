@@ -477,7 +477,7 @@ void get_implementation(function_t f1,
     unsorted_function.sort();
 
     impl_number ++;
-      exit_m();
+     // exit_m();
  }
 
 }
